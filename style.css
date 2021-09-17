@@ -18,7 +18,7 @@ Date:
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
     text-align: center;
-    background-color: rgb(56, 143, 177);
+    background-color: #c8102f00;
 }
 
 .main{ /*DO NOT REMOVE*/
@@ -35,10 +35,13 @@ Date:
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
+    background-color: #1d428a;
+    padding-left: 20px;
 }
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
+    background-color: #c8102e;
 }
 
 .videoSection{ /*DO NOT REMOVE*/
@@ -47,12 +50,14 @@ Date:
 
 .references{
    grid-area: references;
+   background-color: #1d428a
 }
 
 .footer{ /*DO NOT REMOVE*/
     grid-area: footer;
+    background-color:#c8102e
 }
 
 img{
- width: 100%;
+ width: 110%;
 }
