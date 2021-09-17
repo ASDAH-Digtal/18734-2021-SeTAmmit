@@ -18,7 +18,7 @@ Date:
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
     text-align: center;
-    background-color: #c8102f00;
+    background-color: #c8102e;
 }
 
 .main{ /*DO NOT REMOVE*/
@@ -31,33 +31,38 @@ Date:
 
 .side2{ /*DO NOT REMOVE*/
     grid-area: side2;
+    padding-top: 50px;
 }
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
     background-color: #1d428a;
     padding-left: 20px;
+    padding-top: 20px;
 }
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
     background-color: #c8102e;
+    padding-right: 10px;
 }
 
 .videoSection{ /*DO NOT REMOVE*/
     grid-area: videoSection;
+    width: 100%;
 }
 
 .references{
    grid-area: references;
-   background-color: #1d428a
+   background-color: #1d428a;
+   text-align: center;
 }
 
 .footer{ /*DO NOT REMOVE*/
     grid-area: footer;
-    background-color:#c8102e
+    background-color:#c8102e;
 }
 
 img{
- width: 110%;
+ width: 100%;
 }
