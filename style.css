@@ -18,7 +18,7 @@ Date:
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
     text-align: center;
-    background-color: #c8102e;
+    background-color: #1d428a;
     color: #fcfcfc;
     font-size: 1cm;
 }
@@ -38,7 +38,7 @@ Date:
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
-    background-color: #1d428a;
+    background-color: #c8102e;
     padding-left: 20px;
     padding-top: 20px;
     color: #ffffff;
@@ -46,7 +46,7 @@ Date:
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
-    background-color: #c8102e;
+    background-color: #1d428a;
     padding-left: 100px;
     color: #ffffff;
 }
@@ -58,14 +58,15 @@ Date:
 
 .references{
    grid-area: references;
-   background-color: #1d428a;
+   background-color: #c8102e;
    text-align: center;
    color: #ffffff;
 }
 
 .footer{ /*DO NOT REMOVE*/
     grid-area: footer;
-    background-color:#ffffff;
+    background-color:#1d428a;
+    color:#ffffff;
 }
 
 img{
