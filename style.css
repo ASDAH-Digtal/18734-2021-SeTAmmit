@@ -2,7 +2,7 @@
 Name: 
 Date: 
 */
-
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 .container{ /*DO NOT REMOVE OR EDIT*/
     display: grid;
     grid-template-columns:1fr 2fr 1fr;
@@ -20,7 +20,8 @@ Date:
     text-align: center;
     background-color: #1d428a;
     color: #fcfcfc;
-    font-size: 1cm;
+    font-size: 1.5cm;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .main{ /*DO NOT REMOVE*/
@@ -42,6 +43,7 @@ Date:
     padding-left: 20px;
     padding-top: 20px;
     color: #ffffff;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .section2{ /*DO NOT REMOVE*/
@@ -49,6 +51,7 @@ Date:
     background-color: #1d428a;
     padding-left: 100px;
     color: #ffffff;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .videoSection{ /*DO NOT REMOVE*/
@@ -61,6 +64,7 @@ Date:
    background-color: #c8102e;
    text-align: center;
    color: #ffffff;
+   font-family: 'Bebas Neue', cursive;
 }
 
 .footer{ /*DO NOT REMOVE*/
