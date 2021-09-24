@@ -35,6 +35,7 @@ Date:
 .side2{ /*DO NOT REMOVE*/
     grid-area: side2;
     padding-top: 49px;
+    padding-right: 40px;
 }
 
 .section1{ /*DO NOT REMOVE*/
@@ -71,6 +72,7 @@ Date:
     grid-area: footer;
     background-color:#1d428a;
     color:#ffffff;
+    text-align: center;
 }
 
 img{
